@@ -65,6 +65,7 @@ export type LiteLLMPricingFetcherOptions = {
 
 const DEFAULT_PROVIDER_PREFIXES = [
 	'anthropic/',
+	'anthropic.',
 	'claude-3-5-',
 	'claude-3-',
 	'claude-',
